@@ -2,8 +2,6 @@
 
 My name is Philipp Glira and I’m a scientist at the awesome [Austrian Institute of Technology](https://www.ait.ac.at) (AIT). 
 
-You can follow my activities on [pglira.github.io](https://pglira.github.io).
-
 <a href="https://github.com/pglira/pglira">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pglira&show_icons=true&line_height=27&count_private=true" alt="Philipp's GitHub Stats" />
 </a>
