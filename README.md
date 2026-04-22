@@ -2,7 +2,7 @@
 
 My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute of Technology](https://www.ait.ac.at) (AIT).
 
-## Notable GitHub contributions
+## Some of my GitHub contributions
 
 - 🎯 [simpleICP](https://github.com/pglira/simpleICP) - Simple ICP algorithm in C++, Python, Julia, Matlab, Octave
 - 📐 [Point_cloud_tools_for_Matlab](https://github.com/pglira/Point_cloud_tools_for_Matlab) - Point cloud processing tools for Matlab
