@@ -10,6 +10,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🧵 [**2D_nonrigid_ICP**](https://github.com/AIT-Assistive-Autonomous-Systems/2D_nonrigid_ICP) - 2D non-rigid point cloud registration prototype
 - 🤖 [**robot-mapping-exercises-by-stachniss**](https://github.com/pglira/robot-mapping-exercises-by-stachniss) - Solutions to Stachniss's robot mapping exercises
 - 😎 [**awesome-photogrammetry**](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - Curated list of awesome photogrammetry projects
+- 🛰️ [**awesome_lidar_slam**](https://github.com/SLAMLabApp/awesome_lidar_slam) - Curated resources for LiDAR-based SLAM: algorithms, datasets, tools, learning resources, and research groups
 - ✅ [**do-re-mi-fa-so-la-si-done**](https://github.com/pglira/do-re-mi-fa-so-la-si-done) - Minimal Python + Qt desktop todo app
 - 🏁 [**ich-habe-fertig**](https://github.com/pglira/ich-habe-fertig) - Minimal C++ + Qt desktop todo app
 - 🎙️ [**psst**](https://github.com/pglira/psst) - Voice-to-text for Linux using whisper.cpp
