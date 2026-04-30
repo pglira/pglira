@@ -14,6 +14,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🏁 [ich-habe-fertig](https://github.com/pglira/ich-habe-fertig) - Minimal C++ + Qt desktop todo app
 - 🎙️ [psst](https://github.com/pglira/psst) - Voice-to-text for Linux using whisper.cpp
 - 👁️ [blink](https://github.com/pglira/blink) - Silent screenshot daemon for Linux that records your screen
+- 🎛️ [gmenu](https://github.com/pglira/gmenu) - A centered, dmenu-like launcher for X11 written in Rust
 - 🧮 [kalman-filter-example-by-welch-and-bishop](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [publications](https://github.com/pglira/publications) - Archive of some of my scientific publications
 - 🖼️ [vimiv-qt](https://github.com/pglira/vimiv-qt) - My fork of the vimiv-qt image viewer
