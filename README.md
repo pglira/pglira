@@ -13,6 +13,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🛰️ [**awesome_lidar_slam**](https://github.com/SLAMLabApp/awesome_lidar_slam) - Various curated resources for LiDAR-based SLAM
 - ✅ [**do-re-mi-fa-so-la-si-done**](https://github.com/pglira/do-re-mi-fa-so-la-si-done) - Minimal Python + Qt desktop todo app
 - 🏁 [**ich-habe-fertig**](https://github.com/pglira/ich-habe-fertig) - Minimal C++ + Qt desktop todo app
+- 🎬 [**vlip**](https://github.com/pglira/vlip) - C++ + Qt desktop app that compiles photos and clips into a single MP4 slideshow
 - 🎙️ [**psst**](https://github.com/pglira/psst) - Voice-to-text for Linux using whisper.cpp
 - 👁️ [**blink**](https://github.com/pglira/blink) - Silent screenshot daemon for Linux that records your screen
 - 🎛️ [**gmenu**](https://github.com/pglira/gmenu) - A centered, dmenu-like launcher for X11 written in Rust
