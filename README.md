@@ -11,6 +11,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🤖 [**robot-mapping-exercises-by-stachniss**](https://github.com/pglira/robot-mapping-exercises-by-stachniss) - Solutions to Stachniss's robot mapping exercises
 - 😎 [**awesome-photogrammetry**](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - Curated list of awesome photogrammetry projects
 - 🛰️ [**awesome_lidar_slam**](https://github.com/SLAMLabApp/awesome_lidar_slam) - Various curated resources for LiDAR-based SLAM
+- 📡 [**awesome-science-communication**](https://github.com/pglira/awesome-science-communication) - Curated list of tools and resources for science communication
 - ✅ [**do-re-mi-fa-so-la-si-done**](https://github.com/pglira/do-re-mi-fa-so-la-si-done) - Minimal Python + Qt desktop todo app
 - 🏁 [**ich-habe-fertig**](https://github.com/pglira/ich-habe-fertig) - Minimal C++ + Qt desktop todo app
 - 🎬 [**vlip**](https://github.com/pglira/vlip) - C++ + Qt desktop app that compiles photos and clips into a single MP4 slideshow
