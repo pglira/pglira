@@ -3,11 +3,10 @@
 My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute of Technology](https://www.ait.ac.at) (AIT).
 
 ## Some of my GitHub contributions
-
-- 🎯 [**simpleICP**](https://github.com/pglira/simpleICP) - Simple ICP algorithm in C++, Python, Julia, Matlab, Octave
-- 📐 [**Point_cloud_tools_for_Matlab**](https://github.com/pglira/Point_cloud_tools_for_Matlab) - Point cloud processing tools for Matlab
 - 🧩 [**3D_nonrigid_ICP**](https://github.com/AIT-Assistive-Autonomous-Systems/3D_nonrigid_ICP) - 3D non-rigid ICP with piece-wise tricubic transformations
 - 🧵 [**2D_nonrigid_ICP**](https://github.com/AIT-Assistive-Autonomous-Systems/2D_nonrigid_ICP) - 2D non-rigid point cloud registration prototype
+- 🎯 [**simpleICP**](https://github.com/pglira/simpleICP) - Simple ICP algorithm in C++, Python, Julia, Matlab, Octave
+- 📐 [**Point_cloud_tools_for_Matlab**](https://github.com/pglira/Point_cloud_tools_for_Matlab) - Point cloud processing tools for Matlab
 - 🤖 [**robot-mapping-exercises-by-stachniss**](https://github.com/pglira/robot-mapping-exercises-by-stachniss) - Solutions to Stachniss's robot mapping exercises
 - 😎 [**awesome-photogrammetry**](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - Curated list of awesome photogrammetry projects
 - 🛰️ [**awesome_lidar_slam**](https://github.com/SLAMLabApp/awesome_lidar_slam) - Various curated resources for LiDAR-based SLAM
