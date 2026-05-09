@@ -21,7 +21,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🧮 [**kalman-filter-example-by-welch-and-bishop**](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [**publications**](https://github.com/pglira/publications) - Archive of some of my scientific publications
 - 🖼️ [**vimiv-qt**](https://github.com/pglira/vimiv-qt) - My fork of the vimiv-qt image viewer
-- 🏞️ [**cheder**](https://github.com/pglira/cheder) - C++ + Qt desktop image viewer ("cheder" means "image" in Ladin)
+- 🏞️ [**cheder**](https://github.com/pglira/cheder) - C++ + Qt desktop image viewer with image manipulation actions
 - 🗂️ [**cloudcompare-sbf-io**](https://github.com/pglira/cloudcompare-sbf-io) - Matlab I/O for CloudCompare's SBF format
 - 📸 [**archive-images**](https://github.com/pglira/archive-images) - Archive images by EXIF date
 - ⬇️ [**download-to-year-month-day-dir-chrome-extension**](https://github.com/pglira/download-to-year-month-day-dir-chrome-extension) - Chrome extension to sort downloads by date
