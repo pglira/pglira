@@ -17,7 +17,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🎙️ [**psst**](https://github.com/pglira/psst) - Voice-to-text for Linux using whisper.cpp
 - 👁️ [**blink**](https://github.com/pglira/blink) - Silent screenshot daemon for Linux that records your screen
 - 🎛️ [**gmenu**](https://github.com/pglira/gmenu) - A centered, dmenu-like launcher for X11 written in Rust
-- 🪟 [**scatto**](https://github.com/pglira/scatto) - X11 popup that toggles with Super+D, lists desktops + apps, and moves windows by drag or vim keys
+- 🪟 [**scatto**](https://github.com/pglira/scatto) - Desktop and window switcher popup for X11
 - 🏰 [**dungeon**](https://github.com/pglira/dungeon) - Autohide top-edge drag-and-drop source for X11
 - 🧮 [**kalman-filter-example-by-welch-and-bishop**](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [**publications**](https://github.com/pglira/publications) - Archive of some of my scientific publications
