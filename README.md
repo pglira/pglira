@@ -8,6 +8,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🎯 [**simpleICP**](https://github.com/pglira/simpleICP) - Simple ICP algorithm in C++, Rust, Python, Julia, Matlab
 - 📐 [**Point_cloud_tools_for_Matlab**](https://github.com/pglira/Point_cloud_tools_for_Matlab) - Point cloud processing tools for Matlab
 - 🤖 [**robot-mapping-exercises-by-stachniss**](https://github.com/pglira/robot-mapping-exercises-by-stachniss) - Solutions to Stachniss's robot mapping exercises
+- 🔁 [**autoslam**](https://github.com/pglira/autoslam) - Autonomous loop where Claude Code designs, implements, and benchmarks LiDAR SLAM methods on KITTI
 - 😎 [**awesome-photogrammetry**](https://github.com/awesome-photogrammetry/awesome-photogrammetry) - Curated list of awesome photogrammetry projects
 - 🛰️ [**awesome_lidar_slam**](https://github.com/SLAMLabApp/awesome_lidar_slam) - Various curated resources for LiDAR-based SLAM
 - 📡 [**awesome-science-communication**](https://github.com/pglira/awesome-science-communication) - Curated list of tools and resources for science communication
