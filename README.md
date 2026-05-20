@@ -20,6 +20,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🎛️ [**gmenu**](https://github.com/pglira/gmenu) - A centered, dmenu-like launcher for X11 written in Rust
 - 🪟 [**scatto**](https://github.com/pglira/scatto) - Desktop and window switcher popup for X11
 - 🏰 [**dungeon**](https://github.com/pglira/dungeon) - Autohide top-edge drag-and-drop source for X11
+- 👀 [**agent-observer**](https://github.com/pglira/agent-observer) - Top-bar overview of live Claude Code sessions for X11
 - 🧮 [**kalman-filter-example-by-welch-and-bishop**](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [**publications**](https://github.com/pglira/publications) - Archive of some of my scientific publications
 - 🖼️ [**vimiv-qt**](https://github.com/pglira/vimiv-qt) - My fork of the vimiv-qt image viewer
