@@ -23,6 +23,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🏰 [**dungeon**](https://github.com/pglira/dungeon) - Autohide top-edge drag-and-drop source for X11
 - 👀 [**agent-observer**](https://github.com/pglira/agent-observer) - Top-bar overview of live Claude Code sessions for X11
 - 📦 [**herdr-devcontainer-agents**](https://github.com/pglira/herdr-devcontainer-agents) - herdr plugin that shows coding agents inside dev containers in the herdr sidebar
+- 👓 [**herdr-quicklook**](https://github.com/pglira/herdr-quicklook) - My fork of the herdr-quicklook plugin that shows images with Kitty graphics inside herdr panes
 - 🔍 [**diffobserver**](https://github.com/pglira/diffobserver) - Rust TUI that snapshots a repo and live-monitors diffs against snapshots or git HEAD
 - 🧮 [**kalman-filter-example-by-welch-and-bishop**](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [**publications**](https://github.com/pglira/publications) - Archive of some of my scientific publications
