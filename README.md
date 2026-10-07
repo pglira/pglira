@@ -16,6 +16,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🏁 [**ich-habe-fertig**](https://github.com/pglira/ich-habe-fertig) - Minimal C++ + Qt desktop todo app
 - 🎬 [**vlip**](https://github.com/pglira/vlip) - C++ + Qt desktop app that compiles photos and clips into a single MP4 slideshow
 - 📖 [**wonderscan**](https://github.com/pglira/wonderscan) - C++ + Qt desktop app to crop and dewarp photographed book pages into a PDF
+- 🎥 [**camfx**](https://github.com/pglira/camfx) - C++ + Qt tray app for Linux that applies effects to the webcam image and publishes it as a virtual camera
 - 🎙️ [**psst**](https://github.com/pglira/psst) - Voice-to-text for Linux using whisper.cpp
 - 👁️ [**blink**](https://github.com/pglira/blink) - Silent screenshot daemon for Linux that records your screen
 - 🎛️ [**gmenu**](https://github.com/pglira/gmenu) - A centered, dmenu-like launcher for X11 written in Rust
