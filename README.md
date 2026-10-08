@@ -25,7 +25,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 👀 [**agent-observer**](https://github.com/pglira/agent-observer) - Top-bar overview of live Claude Code sessions for X11
 - 📦 [**herdr-devcontainer-agents**](https://github.com/pglira/herdr-devcontainer-agents) - herdr plugin that shows coding agents inside dev containers in the herdr sidebar
 - 🖼️ [**herdr-image-hints**](https://github.com/pglira/herdr-image-hints) - herdr plugin that opens image paths in a popup
-- 👆 [**herdr-fingers**](https://github.com/pglira/herdr-fingers) - herdr plugin (fork of tmux-fingers for herdr): hints on paths and URLs in the pane, then preview (image, text, directory, browser) or copy
+- 👆 [**herdr-fingers**](https://github.com/pglira/herdr-fingers) - My fork of the herdr-fingers plugin: hints on paths and URLs in the pane, then preview (image, text, directory, browser) or copy
 - 🔍 [**diffobserver**](https://github.com/pglira/diffobserver) - Rust TUI that snapshots a repo and live-monitors diffs against snapshots or git HEAD
 - 🧮 [**kalman-filter-example-by-welch-and-bishop**](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [**publications**](https://github.com/pglira/publications) - Archive of some of my scientific publications
