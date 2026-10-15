@@ -23,6 +23,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🪟 [**scatto**](https://github.com/pglira/scatto) - Desktop and window switcher popup for X11
 - 🏰 [**dungeon**](https://github.com/pglira/dungeon) - Autohide top-edge drag-and-drop source for X11
 - 👀 [**agent-observer**](https://github.com/pglira/agent-observer) - Top-bar overview of live Claude Code sessions for X11
+- 🗡️ [**pixelpal**](https://github.com/pglira/pixelpal) - Zelda's Link as a desktop pal that chats via Claude Code
 - 📦 [**herdr-devcontainer-agents**](https://github.com/pglira/herdr-devcontainer-agents) - herdr plugin that shows coding agents inside dev containers in the herdr sidebar
 - 🖼️ [**herdr-image-hints**](https://github.com/pglira/herdr-image-hints) - herdr plugin that opens image paths in a popup
 - 👆 [**herdr-fingers**](https://github.com/pglira/herdr-fingers) - My fork of the herdr-fingers plugin with added functionality
