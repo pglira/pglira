@@ -29,6 +29,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 👆 [**herdr-fingers**](https://github.com/pglira/herdr-fingers) - My fork of the herdr-fingers plugin with added functionality
 - 📝 [**galley**](https://github.com/pglira/galley) - Desktop app to annotate and diff Markdown reports from AI agents
 - 🔍 [**diffobserver**](https://github.com/pglira/diffobserver) - Rust TUI that snapshots a repo and live-monitors diffs against snapshots or git HEAD
+- 📋 [**aq**](https://github.com/pglira/aq) - Rust task queue with a TUI for coding agents
 - 🧮 [**kalman-filter-example-by-welch-and-bishop**](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [**publications**](https://github.com/pglira/publications) - Archive of some of my scientific publications
 - 🖼️ [**vimiv-qt**](https://github.com/pglira/vimiv-qt) - My fork of the vimiv-qt image viewer
