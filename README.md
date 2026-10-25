@@ -31,6 +31,7 @@ My name is Philipp Glira and I'm a scientist at the awesome [Austrian Institute 
 - 🔍 [**diffobserver**](https://github.com/pglira/diffobserver) - Rust TUI that snapshots a repo and live-monitors diffs against snapshots or git HEAD
 - 📋 [**aq**](https://github.com/pglira/aq) - Rust task queue with a TUI for coding agents
 - 🗒️ [**backlog**](https://github.com/pglira/backlog) - Rust TUI to manage the issues in a .backlog.md file
+- 👓 [**tuicr**](https://github.com/pglira/tuicr) - My fork of the tuicr code review TUI
 - 🧮 [**kalman-filter-example-by-welch-and-bishop**](https://github.com/pglira/kalman-filter-example-by-welch-and-bishop) - C++ implementation of the Welch & Bishop Kalman filter example
 - 📚 [**publications**](https://github.com/pglira/publications) - Archive of some of my scientific publications
 - 🖼️ [**vimiv-qt**](https://github.com/pglira/vimiv-qt) - My fork of the vimiv-qt image viewer
